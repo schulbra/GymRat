@@ -1,0 +1,8 @@
+{
+  "name": "Gym.Rat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "1aceab1f"
+}
